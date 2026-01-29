@@ -1,107 +1,84 @@
-<h1 align="center">Hi 👋, I'm Kavindu Dilshan</h1>
+<h1 align="center">Kavindu Dilshan</h1>
 <h3 align="center">Undergraduate IT Student | Software Engineer | Backend & Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arambagekd&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-🎓 Third-year **BSc in Information Technology** undergraduate  
-🏫 **University of Moratuwa**  
-📍 Matara, Sri Lanka  
+I am a third-year **BSc in Information Technology** undergraduate at the **University of Moratuwa**, based in Matara, Sri Lanka.
 
-💡 Passionate about building **scalable backend systems**, **clean APIs**, and **modern web applications**.  
-🚀 Strong interest in **AI, Machine Learning, and system design**.  
-📊 Experienced in **academic and team-based projects** involving microservices, databases, and cloud-ready architectures.
+I focus on designing and building **scalable backend systems**, **well-structured APIs**, and **modern full-stack web applications**. I enjoy working on projects that emphasize clean architecture, maintainability, and real-world problem solving.
+
+My academic and project experience includes backend development, microservice-based systems, database-driven applications, and cloud-ready solutions. I also have a growing interest in **Artificial Intelligence and Machine Learning**, particularly in applied and research-oriented systems.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills  
 
-### 🔹 Languages  
+### Programming Languages  
 - C  
 - C#  
 - Java  
 - Python (basic)  
 - JavaScript / TypeScript  
 
-### 🔹 Backend & APIs  
+### Backend Development  
 - .NET Core / ASP.NET Web API  
 - Entity Framework  
-- RESTful API Design  
-- Kafka (Event-Driven Microservices)  
+- RESTful API design  
+- Event-driven architecture with Kafka  
 
-### 🔹 Frontend  
+### Frontend Development  
 - Next.js  
 - React  
 - HTML5 / CSS3  
 - Bootstrap  
 
-### 🔹 Databases  
+### Databases  
 - MS SQL Server  
 - MongoDB  
 
-### 🔹 Tools & Platforms  
+### Tools & Technologies  
 - Git & GitHub  
-- Firebase (Notifications & Auth)  
+- Firebase (notifications and authentication)  
 - Postman  
 - Packet Tracer  
 - Wireshark  
 
 ---
 
-## 📌 Key Projects  
+## 📌 Selected Projects  
 
-### 📚 Easy Libro – Library Management System  
-- Web & Mobile based system  
-- Book issuing, reservation, and due-date handling  
-- Email & Firebase Cloud Messaging notifications  
-- Backend: .NET Core Web API  
-- Frontend: Next.js  
+### Easy Libro – Library Management System  
+A web and mobile-based system designed to manage book inventory, issuing, reservations, and due-date tracking.  
+Includes automated email notifications and Firebase Cloud Messaging for user alerts.  
+**Tech stack:** .NET Core Web API, Next.js
 
-### 🛒 E-Commerce Microservices Platform  
-- Order Service with full lifecycle management  
-- Kafka-based asynchronous communication  
-- Scalable microservice architecture  
+### E-Commerce Microservices Platform  
+A microservice-based e-commerce system with a dedicated Order Service handling order creation, cancellation, and status management.  
+Implements asynchronous communication using Kafka for scalability and reliability.
 
-### 🧳 AI-Powered Travel Recommendation System *(Research Project)*  
-- UGC-based recommendation (no user IDs)  
-- NLP + LLM-driven aspect extraction  
-- Context-aware recommendations & itinerary planning  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arambagekd&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arambagekd&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+### AI-Powered Travel Recommendation System *(Research Project)*  
+A research-focused system that generates travel recommendations using scraped user-generated content without relying on user IDs.  
+Applies NLP and LLM-based techniques for aspect extraction, contextual recommendations, and itinerary planning.
 
 ---
 
 ## 🎯 Current Focus  
 
-- Backend system design & API optimization  
-- Learning **AI & Machine Learning**  
-- Building **production-ready full-stack applications**  
-- Exploring scalable architectures and clean code practices  
+- Backend system design and API optimization  
+- Building maintainable, production-quality full-stack applications  
+- Exploring AI and Machine Learning for real-world and research applications  
+- Applying clean code and scalable architecture principles  
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Contact  
 
-- 📧 Email: *kavindudilshanarambage@gmail.com*  
- 
+- 📧 Email: **kavindudilshanarambage@gmail.com**
 
 ---
 
 <p align="center">
-  <i>“Build systems that scale, code that lasts, and solutions that matter.”</i>
+  <i>Focused on building reliable systems and meaningful software solutions.</i>
 </p>
