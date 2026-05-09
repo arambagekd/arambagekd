@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me  
 
-I am a third-year **BSc in Information Technology** undergraduate at the **University of Moratuwa**, based in Matara, Sri Lanka.
+I am a fourth-year **BSc in Information Technology** undergraduate at the **University of Moratuwa**, based in Matara, Sri Lanka.
 
 I focus on designing and building **scalable backend systems**, **well-structured APIs**, and **modern full-stack web applications**. I enjoy working on projects that emphasize clean architecture, maintainability, and real-world problem solving.
 
